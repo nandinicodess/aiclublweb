@@ -1,0 +1,22 @@
+/* Hero Section Styling */
+.hero-section {
+    height: 100vh;
+    background-image: url('https://via.placeholder.com/1500x800'); /* Replace with a relevant AI-themed image */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .hero-section h1, .hero-section p {
+    max-width: 800px;
+  }
+  
+  /* Footer Link Hover Effect */
+  .footer a:hover {
+    color: #0d6efd;
+    text-decoration: underline;
+  }
+  
